@@ -9,7 +9,7 @@
     "full",
     "yellow"
   ],
-  "repository": "https://github.com/atom/flat-syntax",
+  "repository": "https://github.com/jojo36/full-yellow-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

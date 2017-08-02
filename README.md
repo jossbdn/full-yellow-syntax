@@ -1,5 +1,6 @@
-# flat-syntax theme
+# full-yellow-syntax
 
-A short description of your theme.
+A full yellow colors syntax for atom  
+More powerful with https://github.com/jojo36/flat-yellow-ui
 
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+![A screenshot of your theme](http://josselinbodan.fr/img/yellow-theme.png)

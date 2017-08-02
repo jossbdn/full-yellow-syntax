@@ -1,0 +1,34 @@
+// These colors are specific to the theme. Do not use in a package!
+
+@very-light-gray: lighten(@YL-active, 10%);
+@light-gray: fade(@YL-string, 50%);
+@gray: #373b41;
+@dark-gray: #282a2e;
+@very-dark-gray: #1d1f21;
+
+@cyan: @lighten-2;
+@blue: @lighten-3;
+@purple: @lighten-2;
+@green: @lighten-1;
+@red: @lighten-5;
+@orange: @lighten-1;
+@light-orange: @lighten-2;
+
+// YELLOW THEME
+
+@YL-active: #ffbd70;
+@YL-active-text-color: black;
+@YL-active-text-color-light: white;
+@YL-font-size-huge: 36px;
+@YL-font-size-big: 24px;
+
+@YL-string: #ffeeda;
+
+// DECLINAISONS
+
+@lighten-1: @YL-active;
+@lighten-2: darken(@lighten-1, 5%);
+@lighten-3: darken(@lighten-1, 10%);
+@lighten-4: darken(@lighten-1, 15%);
+@lighten-5: lighten(@lighten-1, 10%);
+@lighten-6: lighten(@lighten-1, 20%);

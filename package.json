@@ -1,0 +1,17 @@
+{
+  "name": "full-yellow-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "full yellow syntax theme",
+  "keywords": [
+    "syntax",
+    "theme",
+    "full",
+    "yellow"
+  ],
+  "repository": "https://github.com/atom/flat-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
